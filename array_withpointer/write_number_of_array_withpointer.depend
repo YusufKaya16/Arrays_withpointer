@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1666612307 source:c:\users\yusuf kaya\c_programlama\write_number_of_array_withpointer\main.c
+	<stdio.h>
+	<stdlib.h>
+
